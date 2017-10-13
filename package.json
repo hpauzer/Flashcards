@@ -1,0 +1,27 @@
+{
+  "name": "basiccard",
+  "version": "1.0.0",
+  "description": "Basic Cards",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpauzer/Flashcards.git"
+  },
+  "keywords": [
+    "flashcard",
+    "generator"
+  ],
+  "author": "Heather Pauzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpauzer/Flashcards/issues"
+  },
+  "homepage": "https://github.com/hpauzer/Flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "node": "^8.3.0"
+  }
+}
