@@ -1,5 +1,5 @@
 var inquirer = require("inquirer");
-
+var basic = require("./basicQ.json")
 
 
 
