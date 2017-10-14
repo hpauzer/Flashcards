@@ -22,6 +22,7 @@
   "homepage": "https://github.com/hpauzer/Flashcards#readme",
   "dependencies": {
     "inquirer": "^3.3.0",
-    "node": "^8.3.0"
+    "node": "^8.3.0",
+    "require": "^2.4.20"
   }
 }
