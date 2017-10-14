@@ -1,20 +1,21 @@
 [
 
     {
+
         "front": "What is a Quarter-Pounder with cheese called in Paris?",
-        "back": "A Royale with Cheese",
+        "back": "Royale with Cheese",
         "fullAnswer": "A Royale with cheese is what Parisians call a Quarter-Pounder."
     },
 
     {
-        "front": "Who said, 'There's no crying in baseball?'",
-        "back": "Tom Hank's character, Jimmy, in A League of Their Own.",
+        "front": "What actor's line was 'There's no crying in baseball?'",
+        "back": "Tom Hanks",
         "fullAnswer": "In a League of Their Own, Tom Hank's character, Jimmy, said 'There's no crying in baseball.'"
     },
 
     {
         "front": "In Billy Madison, who rules?",
-        "back": "O'Doyle Rules",
+        "back": "O'Doyle",
         "fullAnswer": "O'Doyle Rules in the movie Billy Madison."
     }
 ]
